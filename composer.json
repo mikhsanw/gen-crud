@@ -31,7 +31,7 @@
     {
         "psr-4":
         {
-            "Mrdebug\\Crudgen\\": "src/"
+            "mikhsanw\\gen-crud\\": "src/"
         }
     },
     "extra":

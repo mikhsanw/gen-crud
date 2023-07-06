@@ -13,7 +13,7 @@ And since 1.9.2, a complete **REST API** !
 
 1\. Run composer command:
 
-``` composer require mrdebug/crudgen --dev```
+``` composer require  --dev```
 
 2\. If you don't use Laravel Collective Form package in your project, install it:
 
